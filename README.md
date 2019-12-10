@@ -41,12 +41,12 @@ PERGUNTAS
 
 (Pergunta 1) A ordem de exploração foi de acordo com o esperado? O Pacman realmente passa por todos os estados explorados no seu caminho para o objetivo?
 R= Sim.
-Não, pois  memso procura uma melhor rota para seguir seu objetivo.
+Não, pois  mesmo procura uma melhor rota para seguir seu objetivo.
 
 (Pergunta 2) Essa é uma solução ótima? Senão, o que a busca em profundidade está fazendo de errado?
 
 (Pergunta 3) A busca BFS encontra a solução ótima? Senão, verifique a sua implementação. Se o seu código foi escrito de maneira correta, ele deve funcionar também para o quebra-cabeças de 8 peças (seção 3.2 do livro-texto) sem modificações.
-R= sim, o memso executa uma busca com mais precisão.
+R= sim, o mesmo executa uma busca com mais precisão.
 
 (Pergunta 4) O que acontece em openMaze para as várias estratégias de busca?
-R= No DFS ele passa pela maioria dos estados explorados, já no ASEARCH ele percorre distáncias retas até chegar no seu objetivo.
+R= No DFS ele passa pela maioria dos estados explorados, já no ASEARCH ele percorre distâncias retas até chegar no seu objetivo.
